@@ -1,0 +1,24 @@
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\Projeto16\Projeto16\bin\Debug\Projeto16.exe.config
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\Projeto16\Projeto16\bin\Debug\Projeto16.exe
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\Projeto16\Projeto16\bin\Debug\Projeto16.pdb
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.FrmPratica16.resources
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.csproj.GenerateResource.Cache
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.exe
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.pdb
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Projeto16\Projeto16\bin\Debug\Projeto16.exe.config
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Projeto16\Projeto16\bin\Debug\Projeto16.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Projeto16\Projeto16\bin\Debug\Projeto16.pdb
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.csprojResolveAssemblyReference.cache
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.FrmPratica16.resources
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.csproj.GenerateResource.Cache
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Projeto16\Projeto16\obj\Debug\Projeto16.pdb
+C:\Users\claud\Documents\Projeto16\Projeto16\bin\Debug\Projeto16.exe.config
+C:\Users\claud\Documents\Projeto16\Projeto16\bin\Debug\Projeto16.exe
+C:\Users\claud\Documents\Projeto16\Projeto16\bin\Debug\Projeto16.pdb
+C:\Users\claud\Documents\Projeto16\Projeto16\obj\Debug\Projeto16.csprojResolveAssemblyReference.cache
+C:\Users\claud\Documents\Projeto16\Projeto16\obj\Debug\Projeto16.FrmPratica16.resources
+C:\Users\claud\Documents\Projeto16\Projeto16\obj\Debug\Projeto16.csproj.GenerateResource.Cache
+C:\Users\claud\Documents\Projeto16\Projeto16\obj\Debug\Projeto16.exe
+C:\Users\claud\Documents\Projeto16\Projeto16\obj\Debug\Projeto16.pdb
